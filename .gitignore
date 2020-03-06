@@ -44,4 +44,7 @@ sysinfo.txt
 Assets/StreamingAssets/crashlytics-build.properties
 
 
+# Large image files (Photoshop, Illustrator, ...)
+*.psd
+
 # End of https://www.gitignore.io/api/unity
